@@ -105,5 +105,4 @@ http://127.0.0.1:8000
 
 ## 👩‍💻 Author
 
-Your Name
 GitHub: https://github.com/radik-ha
